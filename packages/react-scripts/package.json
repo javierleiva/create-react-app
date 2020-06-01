@@ -1,10 +1,10 @@
 {
-  "name": "react-scripts",
-  "version": "3.4.1",
+  "name": "@javier0leiva/react-scripts",
+  "version": "3.4.2",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/javierleiva/create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
@@ -12,7 +12,7 @@
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/javierleiva/create-react-app/issues"
   },
   "files": [
     "bin",
@@ -84,6 +84,7 @@
     "workbox-webpack-plugin": "4.3.1"
   },
   "devDependencies": {
+    "less-loader": "^6.1.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
